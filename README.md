@@ -1,5 +1,11 @@
 # Python3-XTM-Tool-Vers.2
 Ein Python3 Tool (Packet Sniffer, AP Deauth Attack, DoS Attack)
+Dieses Tool benötigt:
+
+        --> Python3
+        --> Linux Betriebssystem
+        --> Das Python Modul: "scapy"
+
 
 
 
