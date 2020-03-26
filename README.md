@@ -4,7 +4,7 @@ Dieses Tool benötigt:
 
         --> Python3
         --> Linux Betriebssystem
-        --> Das Python Modul: "scapy"
+        --> Python Modul: "scapy","os","time","random","colorama","datetime"
 
 
 
